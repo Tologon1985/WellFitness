@@ -52,7 +52,7 @@ const Header = () => {
                                 <li><a className="link" href="#">О компании</a></li>
                                 <li><a className="link" href="#">Блог</a></li>
                                 <li><a className="link" href="#">Где купить</a></li>
-                                <li><a className="link" href="#">Контакты.</a></li>
+                                <li><a className="link" href="#">Контакты</a></li>
                             </ul>
                         </nav>
                     </div>
