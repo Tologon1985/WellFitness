@@ -21,6 +21,11 @@
     margin-left: 10px;
 }
 
+.bxs-grid{
+    margin-right: 10px;
+    font-size: 22px;
+}
+
 .area-finding {
     color: #858FA4;
     font-family: 'Inter', sans-serif;
@@ -168,6 +173,6 @@
 
 
 
-.analysis svg{
+.analysis img{
     margin-left: 37px;
 }
